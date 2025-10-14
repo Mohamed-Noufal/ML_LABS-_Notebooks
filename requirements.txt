@@ -1,0 +1,10 @@
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+Pillow
+dlai_grader
