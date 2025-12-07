@@ -10,7 +10,7 @@ This repository serves as both a learning resource and a reference implementatio
 
 ### 1. Supervised Learning (`Supervised machine learning labs/`)
 Path: `Supervised machine learning labs/`
-
+ 
 #### Classical Machine Learning
 - **Logistic Regression** (`C1_W3_Logistic_Regression.ipynb`)
   - **File Path**: `Supervised machine learning labs/C1_W3_Logistic_Regression.ipynb`
@@ -703,6 +703,7 @@ Here's a quick reference for the most commonly used algorithms and their practic
 
 ---
 _Last updated: October 5, 2025_ - Last updated content: October 14, 2025_
+
 
 
 
