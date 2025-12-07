@@ -3,7 +3,7 @@
 A comprehensive collection of machine learning notebooks covering fundamental concepts to advanced applications. This repository contains hands-on implementations, detailed explanations, and real-world examples across supervised learning, unsupervised learning, NLP, computer vision, and Hugging Face transformers.
    
 ## 🎯 Project Overview
-
+ 
 This repository serves as both a learning resource and a reference implementation for various machine learning algorithms and techniques. Each notebook is carefully structured to explain concepts, implement algorithms from scratch, and demonstrate practical applications with clear file paths and usage examples.
 
 ## 📚 Detailed Repository Structure
@@ -703,6 +703,7 @@ Here's a quick reference for the most commonly used algorithms and their practic
 
 ---
 _Last updated: October 5, 2025_ - Last updated content: October 14, 2025_
+
 
 
 
